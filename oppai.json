@@ -1,7 +1,7 @@
 {
 	"version": "1.1.46",
 	"homepage": "https://github.com/Francesco149/oppai-ng",
-	"license": "https://github.com/Francesco149/oppai-ng/blob/master/UNLICENSE"
+	"license": "https://github.com/Francesco149/oppai-ng/blob/master/UNLICENSE",
 	"architecture": {
 		"32bit": {
 			"bin": "oppai-1.1.46-windows-x86\\oppai.exe",
