@@ -1,0 +1,29 @@
+{
+	"version": "1.9.98",
+	"homepage": "https://megatools.megous.com",
+	"license": "GPL2",
+	"architecture": {
+		"32bit": {
+			"url": "https://megatools.megous.com/builds/megatools-1.9.98-win32.zip",
+			"hash": "47fa1240a33634ae6595fcd1f96e9f10eae79c539c389292900b4e2c412ccc56",
+			"extract_dir": "megatools-1.9.98-win32"
+		},
+		"64bit": {
+			"url": "https://megatools.megous.com/builds/megatools-1.9.98-win64.zip",
+			"hash": "235e1fc9d1abb141fae33fe759cda8a6d8566967a609c421413a8ff6e84247ac",
+			"extract_dir": "megatools-1.9.98-win64"
+		}
+	},
+	"bin": [
+		"megacopy.exe",
+		"megadf.exe",
+		"megadl.exe",
+		"megaget.exe",
+		"megals.exe",
+		"megamkdir.exe",
+		"megaput.exe",
+		"megareg.exe",
+		"megarm.exe"
+	],
+	"notes": "Create the %userprofile%\\mega.ini ($env:userprofile\\mega.ini) and check here https://megatools.megous.com/man/megarc.html#_login_section"
+}
