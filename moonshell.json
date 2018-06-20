@@ -3,7 +3,7 @@
 	"bin": "MoonShell-2.1.exe",
 	"version": "2.1",
 	"url": "https://github.com/hellzerg/moonshell/releases/download/2.1/MoonShell-2.1.exe",
-	"hash": "9d5325d6cdaec21d65af01fd3a31668bbf4eec67",
+	"hash": "64b8ff1c1a3698fc86d8d73d084021118e85f31c0d4d73836fb584552159b69a",
 	"shortcuts": [
 		"MoonShell-2.1.exe",
 		"MoonShell"
