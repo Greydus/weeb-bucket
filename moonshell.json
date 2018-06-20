@@ -1,7 +1,11 @@
 {
-    "license": "https://github.com/hellzerg/moonshell/blob/master/LICENSE",
-    "bin": "MoonShell-2.1.exe",
-    "version": "2.1"
-    "url": "https://github.com/hellzerg/moonshell/releases/download/2.1/MoonShell-2.1.exe",
-    "hash": "9d5325d6cdaec21d65af01fd3a31668bbf4eec67"
+	"license": "https://github.com/hellzerg/moonshell/blob/master/LICENSE",
+	"bin": "MoonShell-2.1.exe",
+	"version": "2.1"
+	"url": "https://github.com/hellzerg/moonshell/releases/download/2.1/MoonShell-2.1.exe",
+	"hash": "9d5325d6cdaec21d65af01fd3a31668bbf4eec67",
+	"shortcuts": [
+		"MoonShell-2.1.exe",
+		"MoonShell"
+	]
 }
