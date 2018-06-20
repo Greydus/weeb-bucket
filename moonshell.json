@@ -1,0 +1,8 @@
+{
+    "version": "2.1",
+    "homepage": "https://github.com/hellzerg/moonshell",
+    "license": "https://github.com/hellzerg/moonshell/blob/master/LICENSE",
+    "bin": "MoonShell-2.1.exe",
+    "url": "https://github.com/hellzerg/moonshell/releases/download/2.1/MoonShell-2.1.exe#/MoonShell-2.1.7z",
+    "hash": "64b8ff1c1a3698fc86d8d73d084021118e85f31c0d4d73836fb584552159b69a"
+}
