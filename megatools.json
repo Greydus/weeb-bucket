@@ -25,5 +25,5 @@
 		"megareg.exe",
 		"megarm.exe"
 	],
-	"notes": "Create the %userprofile%\\mega.ini ($env:userprofile\\mega.ini) and check here https://megatools.megous.com/man/megarc.html"
+	"notes": "Create the %userprofile%\\mega.ini or $env:userprofile\\mega.ini and check here https://megatools.megous.com/man/megarc.html#_config_file_sections for the available sections"
 }
